@@ -6,7 +6,7 @@ A interface usa um visual escuro e futurista, com botoes estilizados e display r
 ## Funcionalidades
 
 - Soma, subtração, multiplicação e divisão
-- Botao de limpar (`C`)
+- Botão de limpar (`C`)
 - Troca de sinal (`+/-`)
 - Cálculo de porcentagem (`%`)
 - Suporte a números decimais
